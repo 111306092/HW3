@@ -1,0 +1,34 @@
+h2{
+	margin-left: 50px;
+}
+input{
+	position: absolute;
+	margin-left: 100px;
+	height: 20px;
+}
+.it3{
+	position: absolute;
+	top: 70px;
+	left: 657px;
+}
+#textarea{
+	position: absolute;
+	margin-left: 83px;
+}
+.pic{
+	position: absolute;
+	left: 59px;
+	top: 310px;
+}
+
+#jpg{
+	position: absolute;
+	top: 310px;
+	left: 225px;
+	width: 966px;
+	height: 300px;
+
+}
+body{
+	background-color: lightblue;
+}
